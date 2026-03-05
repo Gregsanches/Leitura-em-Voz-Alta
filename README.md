@@ -52,13 +52,7 @@ Acesse [autohotkey.com](https://www.autohotkey.com/download/1.1/) e instale a ve
 
 ### 2. Baixe os arquivos do repositório
 
-Você pode clonar via Git:
-
-```bash
-git clone https://github.com/seu-usuario/leitura-em-voz-alta.git
-```
-
-Ou simplesmente baixar o ZIP pelo botão **Code → Download ZIP** no GitHub.
+Baixar o ZIP pelo botão **Code → Download ZIP** no GitHub.
 
 ### 3. Execute o script
 
