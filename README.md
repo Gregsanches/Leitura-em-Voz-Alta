@@ -64,6 +64,7 @@ Um ícone de megafone aparecerá na bandeja do sistema (próximo ao relógio), i
 ### 4. Instale o executável
 
 Caso prefira, você pode apenas instalar o último arquivo executável disponível nos "Releases". Dependendo do seu computador, o Windows poderá alertar se você realmente quer instalá-lo. Caso queira, clique em "executar mesmo assim" para instalar o programa sem ter que passar por todos os passos acima descritos.  
+
 ---
 
 ## ⌨️ Atalhos disponíveis
